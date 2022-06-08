@@ -1,6 +1,6 @@
-# vatek-.net-basic
+# vatek-net-basic
 
-[Language Integrated Query (LINQ)](./LINQ)
+[Language Integrated Query LINQ](./LINQ)
 
 [.NET Core](./net-core)
 
